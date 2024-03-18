@@ -1,9 +1,9 @@
 
 Introduction
 ==============
-AGIMOGIM EMR is a enterprise web-based application which covers all day to day aspects of Hospital management end to end. Its currently trying build . 
+SUREHEALTH EMR is a enterprise web-based application which covers all day to day aspects of Hospital management end to end. Its currently trying build . 
 
-Modules in AGIMOGIM EMR
+Modules in SUREHEALTH EMR
 ==============
 It has around 40 modules and below are important ones listed.
 
