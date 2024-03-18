@@ -26,7 +26,7 @@ It has around 40 modules and below are important ones listed.
 
 `and more...`
 
-Demo of AGIMOGIM EMR
+Demo of SUREHEALTH EMR
 ==============
 Click on below demo link and check out live application
 
